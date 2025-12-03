@@ -8,8 +8,10 @@ The goal is to create a scalable and flexible gameplay framework by separating v
 Through this approach, the project showcases how Unreal Engine’s GAS simplifies the creation of complex systems, making them more organized, modular, and easier to develop and scale. This results in a flexible, high-performance architecture that can adapt to future feature expansions or adjustments.
 
 
-Here is the demo link: [YouTube Link](https://youtu.be/3xOuMrLn2Ds)
+Youtube Demo Link: [YouTube Link](https://youtu.be/3xOuMrLn2Ds)
 
-Here is the detailed link to research document on the project:  [Document Link](https://drive.google.com/file/d/1GPNEYuwvhs3PsMFzhq7z251uYOowxxhD/view?usp=sharing)
+Project Windows Build Link: [Build Link](https://drive.google.com/file/d/1eEmqpDDIWUfX1Op6K3hvRU1qUPh6bi6N/view?usp=drive_link)
+
+Detailed Research Document of the Project:  [Document Link](https://drive.google.com/file/d/1GPNEYuwvhs3PsMFzhq7z251uYOowxxhD/view?usp=sharing)
 
 
