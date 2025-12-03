@@ -1,4 +1,4 @@
-# Karamja
+# Karamja :  An Unreal Gameplay Ability System (GAS) Project
 A C++ Driven spellcasting architecture project using Unreal Engine’s GAS framework, along with integration of core Gameplay Systems.
 
 This project explores how Unreal Engine’s Gameplay Ability System (GAS) can streamline the development of character abilities and improve game design workflows, all while leveraging C++ for the code architecture. Inspired by Hogwarts Legacy, the project implements a spellcasting system using GAS, featuring basic and special spells, defense, healing, mana, and health mechanics. By utilizing GAS, the system allows for greater modularity and easier management of complex gameplay features.
